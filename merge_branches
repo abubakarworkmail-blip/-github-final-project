@@ -1,0 +1,9 @@
+$ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+THINKPAD@DESKTOP-8KCG4GI MINGW64 ~/simple-interest--calculator (main)
+$ git merge bug-fix-typo
+Updating bf84f0a..3969fde
+Fast-forward
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
