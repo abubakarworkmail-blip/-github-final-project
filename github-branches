@@ -1,0 +1,3 @@
+$ git branch -vv
+  bug-fix-typo 3969fde Fix typo in README
+* main         3969fde [origin/main] Fix typo in README
