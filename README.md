@@ -71,3 +71,4 @@ No external libraries are required — this program only uses Python's built-in 
 ## 📄 License
 
 This project is open-source and available for personal or educational use.
+Note: fixed typo in documentation.
